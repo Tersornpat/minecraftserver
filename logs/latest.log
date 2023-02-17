@@ -1,149 +1,38 @@
-[03:50:18] [ServerMain/INFO]: Building unoptimized datafixer
-[03:50:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:50:21] [ServerMain/INFO]: Loaded 7 recipes
-[03:50:21] [ServerMain/INFO]: Loaded 1179 advancements
-[03:50:22] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[03:50:22] [Server thread/INFO]: Loading properties
-[03:50:22] [Server thread/INFO]: Default game type: SURVIVAL
-[03:50:22] [Server thread/INFO]: Generating keypair
-[03:50:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:50:22] [Server thread/INFO]: Using epoll channel type
-[03:50:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:50:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:50:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:50:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:50:22] [Server thread/INFO]: Preparing level "world"
-[03:50:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:50:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:50:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:50:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:50:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:50:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:50:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:50:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:50:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:50:28] [Worker-Main-1/INFO]: Preparing spawn area: 61%
-[03:50:29] [Server thread/INFO]: Time elapsed: 4881 ms
-[03:50:29] [Server thread/INFO]: Done (7.046s)! For help, type "help"
-[03:51:14] [Server thread/INFO]: TheDonkies[/49.237.34.194:33567] logged in with entity id 252 at (26.5, 64.0, 45.5)
-[03:51:14] [Server thread/INFO]: TheDonkies joined the game
-[03:51:16] [Server thread/INFO]: Tersornpat[/14.207.3.7:6671] logged in with entity id 469 at (-58.9686485969169, 64.0, 98.40488963557733)
-[03:51:16] [Server thread/INFO]: Tersornpat joined the game
-[03:52:14] [Server thread/INFO]: Tersornpat drowned
-[03:53:48] [Server thread/INFO]: [Not Secure] <TheDonkies> where're you bro
-[03:53:49] [Server thread/INFO]: Villager bwc['Farmer'/399, l='ServerLevel[world]', x=217.66, y=62.51, z=53.30] died, message: 'Farmer was slain by Zombie'
-[03:54:39] [Server thread/INFO]: TheDonkies has made the advancement [Stone Age]
-[03:54:57] [Server thread/INFO]: Teleported Tersornpat to TheDonkies
-[03:55:05] [Server thread/INFO]: TheDonkies has made the advancement [Getting an Upgrade]
-[03:55:44] [Server thread/INFO]: TheDonkies has made the advancement [Acquire Hardware]
-[03:56:55] [Server thread/INFO]: Villager bwc['Nitwit'/239, l='ServerLevel[world]', x=214.05, y=62.53, z=50.30] died, message: 'Nitwit was slain by Zombie Villager'
-[03:58:50] [Server thread/INFO]: [Not Secure] <Tersornpat> เอาเตียงมา
-[04:00:24] [Server thread/INFO]: [Not Secure] <TheDonkies> ตีปนะตูด้วย
-[04:01:12] [Server thread/INFO]: Tersornpat has made the advancement [Sweet Dreams]
-[04:01:42] [Server thread/INFO]: Villager bwc['Villager'/403, l='ServerLevel[world]', x=209.61, y=64.00, z=101.50] died, message: 'Villager was slain by Zombie'
-[04:01:50] [Server thread/INFO]: Villager bwc['Villager'/186, l='ServerLevel[world]', x=211.54, y=64.00, z=99.86] died, message: 'Villager was slain by Zombie'
-[04:02:17] [Server thread/INFO]: Villager bwc['Villager'/401, l='ServerLevel[world]', x=209.29, y=64.00, z=104.58] died, message: 'Villager was slain by Zombie Villager'
-[04:02:24] [Server thread/INFO]: TheDonkies has made the advancement [Sweet Dreams]
-[04:02:47] [Server thread/INFO]: [Not Secure] <TheDonkies> นอนๆ
-[04:04:08] [Server thread/INFO]: Tersornpat has made the advancement [Monster Hunter]
-[04:10:57] [Server thread/INFO]: Tersornpat lost connection: Disconnected
-[04:10:57] [Server thread/INFO]: Tersornpat left the game
-[04:11:41] [Server thread/INFO]: TheDonkies has made the advancement [Monster Hunter]
-[04:13:04] [Server thread/INFO]: Tersornpat[/14.207.3.7:63950] logged in with entity id 7447 at (197.84419903899868, 64.9375, 52.587460148413186)
-[04:13:04] [Server thread/INFO]: Tersornpat joined the game
-[04:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=231, y=69, z=76} gp{x=232, y=67, z=75}
-[04:13:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=234, y=69, z=73} gp{x=235, y=68, z=71}
-[04:13:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=235, y=69, z=73} gp{x=235, y=68, z=71}
-[04:13:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=235, y=69, z=73} gp{x=235, y=68, z=71}
-[04:13:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=236, y=68, z=73} gp{x=235, y=68, z=71}
-[04:13:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=237, y=69, z=73} gp{x=235, y=68, z=71}
-[04:13:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=238, y=69, z=74} gp{x=239, y=68, z=73}
-[04:13:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=238, y=69, z=74} gp{x=239, y=68, z=73}
-[04:13:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=239, y=69, z=74} gp{x=239, y=68, z=73}
-[04:13:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=239, y=69, z=74} gp{x=239, y=68, z=73}
-[04:13:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=239, y=69, z=74} gp{x=239, y=68, z=73}
-[04:13:55] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=234, y=69, z=72} gp{x=234, y=68, z=70}
-[04:13:55] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=234, y=69, z=72} gp{x=234, y=68, z=70}
-[04:13:55] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=234, y=69, z=72} gp{x=234, y=68, z=70}
-[04:13:56] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=232, y=69, z=72} gp{x=231, y=67, z=71}
-[04:13:56] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=231, y=69, z=70} gp{x=230, y=67, z=71}
-[04:13:56] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=231, y=69, z=70} gp{x=230, y=67, z=71}
-[04:13:56] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=231, y=69, z=70} gp{x=230, y=67, z=71}
-[04:13:56] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=231, y=69, z=70} gp{x=230, y=67, z=71}
-[04:17:39] [Server thread/INFO]: Villager bwc['Villager'/119, l='ServerLevel[world]', x=195.68, y=69.00, z=63.61] died, message: 'Villager was slain by Zombie'
-[04:20:32] [Server thread/INFO]: Tersornpat has made the advancement [The Parrots and the Bats]
-[04:24:06] [Server thread/INFO]: TheDonkies has made the advancement [A Seedy Place]
-[04:31:04] [Server thread/INFO]: TheDonkies has made the advancement [Isn't It Iron Pick]
-[04:39:48] [Server thread/INFO]: Villager bwc['Villager'/238, l='ServerLevel[world]', x=229.68, y=52.00, z=52.70] died, message: 'Villager was slain by Zombie'
-[04:42:10] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=298, y=64, z=158} gp{x=298, y=62, z=158}
-[04:54:07] [Server thread/INFO]: Tersornpat has made the advancement [Acquire Hardware]
-[05:14:18] [Server thread/INFO]: TheDonkies has made the advancement [Suit Up]
-[05:17:12] [Server thread/INFO]: Tersornpat has made the advancement [Isn't It Iron Pick]
-[05:34:19] [Server thread/INFO]: Tersornpat lost connection: Disconnected
-[05:34:19] [Server thread/INFO]: Tersornpat left the game
-[05:40:38] [Server thread/INFO]: Villager bwc['Villager'/36539, l='ServerLevel[world]', x=229.70, y=52.00, z=52.70] died, message: 'Villager was slain by Zombie'
-[06:09:38] [Server thread/INFO]: TheDonkies lost connection: You logged in from another location
-[06:09:38] [Server thread/INFO]: TheDonkies left the game
-[06:09:38] [Server thread/WARN]: handleDisconnection() called twice
-[06:09:38] [Server thread/INFO]: TheDonkies[/49.237.19.48:59821] logged in with entity id 43860 at (227.7260933234201, 67.0, 122.38054149210075)
-[06:09:38] [Server thread/INFO]: TheDonkies joined the game
-[06:09:49] [Server thread/INFO]: TheDonkies was slain by Iron Golem
-[06:24:26] [Server thread/INFO]: TheDonkies lost connection: Disconnected
-[06:24:26] [Server thread/INFO]: TheDonkies left the game
-[06:24:29] [Server thread/INFO]: TheDonkies[/49.237.19.48:53611] logged in with entity id 49167 at (214.49811126414383, 69.0, 105.18171422122411)
-[06:24:29] [Server thread/INFO]: TheDonkies joined the game
-[06:24:35] [Server thread/INFO]: TheDonkies lost connection: Disconnected
-[06:24:35] [Server thread/INFO]: TheDonkies left the game
-[06:28:10] [Server thread/INFO]: TheDonkies[/49.237.19.48:7531] logged in with entity id 49830 at (214.49811126414383, 69.0, 105.18171422122411)
-[06:28:10] [Server thread/INFO]: TheDonkies joined the game
-[06:30:53] [Server thread/INFO]: TheDonkies lost connection: Disconnected
-[06:30:53] [Server thread/INFO]: TheDonkies left the game
-[08:55:02] [Server thread/INFO]: Tersornpat[/14.207.3.7:20395] logged in with entity id 51301 at (218.2114524880356, 63.0, 108.14514317186706)
-[08:55:02] [Server thread/INFO]: Tersornpat joined the game
-[09:05:22] [Server thread/INFO]: Tersornpat was slain by Iron Golem
-[09:08:18] [Server thread/INFO]: Tersornpat has made the advancement [What a Deal!]
-[09:51:38] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=219, y=76, z=164} gp{x=219, y=76, z=166}
-[10:09:19] [Server thread/WARN]: Tersornpat moved too quickly! 6.1371693414876916,-0.5175000131130219,7.9385960381818705
-[10:36:06] [Server thread/INFO]: Tersornpat was slain by Zombie
-[10:37:28] [Server thread/INFO]: Tersornpat lost connection: Disconnected
-[10:37:28] [Server thread/INFO]: Tersornpat left the game
-[10:38:36] [Server thread/INFO]: Made Tersornpat a server operator
-[10:38:37] [Server thread/INFO]: Tersornpat[/14.207.3.7:24165] logged in with entity id 78507 at (220.21161171975376, 68.0, 116.74191909547217)
-[10:38:37] [Server thread/INFO]: Tersornpat joined the game
-[10:38:46] [Server thread/INFO]: [Tersornpat: Set own game mode to Creative Mode]
-[10:38:51] [Server thread/INFO]: [Tersornpat: Set own game mode to Spectator Mode]
-[10:40:38] [Server thread/INFO]: [Tersornpat: Set own game mode to Survival Mode]
-[10:40:41] [Server thread/INFO]: [Tersornpat: Made Tersornpat no longer a server operator]
-[10:43:17] [Server thread/INFO]: Gave 1 [Iron Ingot] to Tersornpat
-[10:43:33] [Server thread/INFO]: Unknown item 'minecraft:iron'
-[10:43:33] [Server thread/INFO]: ...ersornpat iron ingo 64<--[HERE]
-[11:00:37] [Server thread/INFO]: Tersornpat was shot by Skeleton
-[11:00:48] [Server thread/INFO]: Made Tersornpat a server operator
-[11:00:55] [Server thread/INFO]: [Tersornpat: Set own game mode to Spectator Mode]
-[11:02:09] [Server thread/INFO]: [Tersornpat: Set own game mode to Survival Mode]
-[11:03:36] [Server thread/INFO]: Tersornpat has made the advancement [Suit Up]
-[11:18:45] [Server thread/INFO]: Tersornpat has made the advancement [Diamonds!]
-[11:24:21] [Server thread/INFO]: [Tersornpat: Set own game mode to Spectator Mode]
-[11:24:38] [Server thread/INFO]: [Tersornpat: Set own game mode to Survival Mode]
-[11:24:48] [Server thread/INFO]: [Tersornpat: Made Tersornpat no longer a server operator]
-[11:27:22] [Server thread/INFO]: TheDonkies[/49.237.19.48:30384] logged in with entity id 91384 at (215.13124479202543, 69.0, 104.23750001192093)
-[11:27:22] [Server thread/INFO]: TheDonkies joined the game
-[11:51:19] [Server thread/INFO]: TheDonkies has made the advancement [Hot Stuff]
-[11:53:14] [Server thread/INFO]: TheDonkies has made the advancement [Ice Bucket Challenge]
-[11:55:36] [Server thread/INFO]: Villager bwc['Villager'/97380, l='ServerLevel[world]', x=372.90, y=68.00, z=775.30] died, message: 'Villager was slain by Zombie'
-[11:59:45] [Server thread/INFO]: TheDonkies lost connection: Disconnected
-[11:59:45] [Server thread/INFO]: TheDonkies left the game
-[11:59:50] [Server thread/INFO]: Tersornpat lost connection: Disconnected
-[11:59:50] [Server thread/INFO]: Tersornpat left the game
-[12:00:24] [Server thread/INFO]: Stopping the server
-[12:00:24] [Server thread/INFO]: Stopping server
-[12:00:24] [Server thread/INFO]: Saving players
-[12:00:24] [Server thread/INFO]: Saving worlds
-[12:00:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:00:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:00:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:00:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:00:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:00:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:00:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:01:51] [ServerMain/INFO]: Building unoptimized datafixer
+[12:01:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:01:53] [ServerMain/INFO]: Loaded 7 recipes
+[12:01:53] [ServerMain/INFO]: Loaded 1179 advancements
+[12:01:54] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[12:01:54] [Server thread/INFO]: Loading properties
+[12:01:54] [Server thread/INFO]: Default game type: SURVIVAL
+[12:01:54] [Server thread/INFO]: Generating keypair
+[12:01:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:01:54] [Server thread/INFO]: Using epoll channel type
+[12:01:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:01:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:01:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:01:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:01:54] [Server thread/INFO]: Preparing level "world"
+[12:01:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:01:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:01:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:01:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:01:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:01:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:01:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:01:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:02:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:02:00] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[12:02:00] [Server thread/INFO]: Time elapsed: 4303 ms
+[12:02:00] [Server thread/INFO]: Done (6.303s)! For help, type "help"
+[12:02:05] [Server thread/INFO]: Stopping the server
+[12:02:05] [Server thread/INFO]: Stopping server
+[12:02:05] [Server thread/INFO]: Saving players
+[12:02:05] [Server thread/INFO]: Saving worlds
+[12:02:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:02:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:02:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:02:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:02:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:02:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:02:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
