@@ -1,38 +1,54 @@
-[12:01:51] [ServerMain/INFO]: Building unoptimized datafixer
-[12:01:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:01:53] [ServerMain/INFO]: Loaded 7 recipes
-[12:01:53] [ServerMain/INFO]: Loaded 1179 advancements
-[12:01:54] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[12:01:54] [Server thread/INFO]: Loading properties
-[12:01:54] [Server thread/INFO]: Default game type: SURVIVAL
-[12:01:54] [Server thread/INFO]: Generating keypair
-[12:01:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:01:54] [Server thread/INFO]: Using epoll channel type
-[12:01:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:01:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:01:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:01:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:01:54] [Server thread/INFO]: Preparing level "world"
-[12:01:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:01:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:01:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:01:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:01:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:01:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:01:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:01:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:02:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:02:00] [Worker-Main-1/INFO]: Preparing spawn area: 54%
-[12:02:00] [Server thread/INFO]: Time elapsed: 4303 ms
-[12:02:00] [Server thread/INFO]: Done (6.303s)! For help, type "help"
-[12:02:05] [Server thread/INFO]: Stopping the server
-[12:02:05] [Server thread/INFO]: Stopping server
-[12:02:05] [Server thread/INFO]: Saving players
-[12:02:05] [Server thread/INFO]: Saving worlds
-[12:02:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:02:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:02:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:02:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:02:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:02:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:02:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:44:10] [Server thread/INFO]: Tersornpat[/14.207.3.7:59494] logged in with entity id 78780 at (211.90409648679108, 74.0, 161.69999998807907)
+[06:44:10] [Server thread/INFO]: Tersornpat joined the game
+[07:08:43] [Server thread/INFO]: TheDonkies[/223.24.60.248:19572] logged in with entity id 82852 at (224.21897848258757, 70.0, 113.97534810981142)
+[07:08:43] [Server thread/INFO]: TheDonkies joined the game
+[07:11:47] [Server thread/INFO]: Villager bwc['Villager'/78843, l='ServerLevel[world]', x=255.30, y=68.00, z=123.14] died, message: 'Villager was slain by Tersornpat'
+[07:23:26] [Server thread/INFO]: TheDonkies lost connection: Disconnected
+[07:23:26] [Server thread/INFO]: TheDonkies left the game
+[07:23:26] [Server thread/INFO]: TheDonkies[/1.46.157.135:30414] logged in with entity id 85697 at (250.705398875705, 67.0, 178.69949649636825)
+[07:23:26] [Server thread/INFO]: TheDonkies joined the game
+[07:34:39] [Server thread/INFO]: [Not Secure] <Tersornpat> 20 20
+[07:34:47] [Server thread/INFO]: [Not Secure] <Tersornpat> 20 75 20
+[08:06:20] [Server thread/INFO]: NongPupe[/49.229.199.67:61426] logged in with entity id 97585 at (201.30495324561016, 67.9375, 88.64166377709327)
+[08:06:20] [Server thread/INFO]: NongPupe joined the game
+[08:09:09] [Server thread/INFO]: NongPupe has made the advancement [We Need to Go Deeper]
+[08:10:00] [Server thread/INFO]: NongPupe has made the advancement [Acquire Hardware]
+[08:10:09] [Server thread/INFO]: NongPupe has made the advancement [Suit Up]
+[08:18:26] [Server thread/INFO]: NongPupe has made the advancement [What a Deal!]
+[08:21:14] [Server thread/INFO]: TheDonkies lost connection: Disconnected
+[08:21:14] [Server thread/INFO]: TheDonkies left the game
+[08:21:35] [Server thread/INFO]: TheDonkies[/1.46.157.135:31295] logged in with entity id 103655 at (1363.6933496226977, 71.0, -999.4908792867066)
+[08:21:35] [Server thread/INFO]: TheDonkies joined the game
+[08:23:42] [Server thread/INFO]: NongPupe fell from a high place
+[08:26:53] [Server thread/INFO]: Made Tersornpat a server operator
+[08:27:03] [Server thread/INFO]: [Tersornpat: Teleported TheDonkies to Tersornpat]
+[08:27:28] [Server thread/INFO]: [Tersornpat: Teleported TheDonkies to Tersornpat]
+[08:27:39] [Server thread/INFO]: [Tersornpat: Teleported NongPupe to Tersornpat]
+[08:28:09] [Server thread/INFO]: NongPupe was slain by Tersornpat
+[08:29:26] [Server thread/INFO]: TheDonkies lost connection: Disconnected
+[08:29:26] [Server thread/INFO]: TheDonkies left the game
+[08:33:14] [Server thread/INFO]: TheDonkies[/1.46.157.135:31309] logged in with entity id 106232 at (217.5, 69.0, 79.5)
+[08:33:14] [Server thread/INFO]: TheDonkies joined the game
+[08:37:32] [Server thread/INFO]: NongPupe lost connection: Disconnected
+[08:37:32] [Server thread/INFO]: NongPupe left the game
+[08:41:11] [Server thread/INFO]: TheDonkies lost connection: Disconnected
+[08:41:11] [Server thread/INFO]: TheDonkies left the game
+[09:33:07] [Server thread/INFO]: ZETPOM[/124.121.4.129:63825] logged in with entity id 117086 at (237.4290459633922, 67.0, 115.55791321129222)
+[09:33:07] [Server thread/INFO]: ZETPOM joined the game
+[09:34:34] [Server thread/INFO]: ZETPOM lost connection: Disconnected
+[09:34:34] [Server thread/INFO]: ZETPOM left the game
+[09:34:38] [Server thread/INFO]: Tersornpat lost connection: Disconnected
+[09:34:38] [Server thread/INFO]: Tersornpat left the game
+[09:34:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[09:34:44] [Server thread/INFO]: stopstop<--[HERE]
+[09:34:48] [Server thread/INFO]: Stopping the server
+[09:34:48] [Server thread/INFO]: Stopping server
+[09:34:48] [Server thread/INFO]: Saving players
+[09:34:48] [Server thread/INFO]: Saving worlds
+[09:34:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:34:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:34:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
